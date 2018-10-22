@@ -1,2 +1,1 @@
-# say10
-sedftgs
+# testcredit
